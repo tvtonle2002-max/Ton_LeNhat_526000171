@@ -2,7 +2,7 @@
 
 - **Họ và tên: Lê Nhất Tôn
 - **MSSV: 526000171
-- **Tên đề tài Website:** Website giới thiệu Trường học Ánh Dương
+- **Tên đề tài Website:** Website Trường học Ánh Dương
 - **Công cụ AI đã sử dụng:** GitHub Copilot (Copilot SDK trong VS Code)
 
 ## 1. Yêu cầu ban đầu (System/Initial Prompt)
